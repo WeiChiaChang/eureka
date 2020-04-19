@@ -1,5 +1,7 @@
 # eureka
 
+![](./public/demo.png)
+
 ## Project setup
 ```
 npm install
